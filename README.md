@@ -1,4 +1,4 @@
-<h2 align="center"><samp>━━━✦❘༻ 𝐇𝐀𝐁𝐈𝐁𝐀 ༺❘✦━━━</samp></h2>
+<h2 align="center"><samp>━━━༻ 𝐇𝐀𝐁𝐈𝐁𝐀 ༺━━━</samp></h2>
 
 <p align="center"><samp>
 Honours Computer Science Student at McGill University, specializing in Artificial Intelligence.
