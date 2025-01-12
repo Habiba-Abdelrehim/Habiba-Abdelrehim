@@ -3,6 +3,7 @@
 <p align="center"><samp>
 Honours Computer Science Student at McGill University, specializing in Artificial Intelligence.
 </samp></p>
+
 <p align="center"><samp>༻❁༺</samp></p>
 
 <p align="center"><samp>
@@ -12,7 +13,3 @@ Honours Computer Science Student at McGill University, specializing in Artificia
 </samp></p>
 
 <p align="center"><samp>༻❁༺</samp></p>
-
-
-
-
