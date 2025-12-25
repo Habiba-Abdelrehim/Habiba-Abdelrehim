@@ -7,8 +7,8 @@ Honours Computer Science Student at McGill University, specializing in Artificia
 <p align="center"><samp>༻❁༺</samp></p>
 
 <p align="center"><samp>
-Completed master’s-level studies in Machine Learning, Computer Vision, and Reinforcement Learning.<br>
-Built AI and full-stack apps through software engineering internships, bridging theory and practice.<br>
+Pursuing master’s-level studies in Machine Learning, Computer Vision, and Reinforcement Learning.<br>
+Building AI and full-stack apps through software engineering internships, bridging theory and practice.<br>
 CrossFit Athlete — dedicated to pushing limits, mastering discipline, and balancing academics with fitness.<br>
 </samp></p>
 
